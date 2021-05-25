@@ -11,3 +11,4 @@ TODO LIST
 1. Create a new component for input field 
 2. Create a new component for superviser options
 3. Add error check for all fetches
+4. Improve styling
